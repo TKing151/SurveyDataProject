@@ -1,2 +1,3 @@
 # SurveyDataProject
-Power BI project
+### Power BI project
+Descriptive statistics and analysis of survey data
